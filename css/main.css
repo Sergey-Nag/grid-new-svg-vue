@@ -1,0 +1,23 @@
+#app {
+  padding: 15px;
+}
+
+.app_wrapp {
+  display: grid;
+  grid-template-columns: 200px auto;
+  grid-column-gap: 15px;
+}
+
+.grid-b {
+  position: relative;
+  overflow: hidden;
+  background: white;
+  border-radius: 4px;
+  border: 1px solid #d1d1d1;
+}
+.main_menu {
+}
+#svg-block {
+  width: 100%;
+  height: 100%;
+}

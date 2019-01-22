@@ -1,0 +1,1 @@
+const Doc = document;
